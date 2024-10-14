@@ -2,3 +2,4 @@ Temperatura=20.00*C  Humedad=43.00%
 El suelo esto seco
 Temperatura=20.00*C  Humedad=43.00%
 El suelo esto seco
+El suelo esto seco
