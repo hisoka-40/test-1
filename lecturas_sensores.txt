@@ -37,3 +37,5 @@ Temperatura=21.00*C  Humedad=40.00%
 El suelo esto humedo
 Temperatura=21.00*C  Humedad=40.00%
 El suelo esto humedo
+Temperatura=21.00*C  Humedad=40.00%
+El suelo esto humedo
