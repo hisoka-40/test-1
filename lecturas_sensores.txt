@@ -49,3 +49,5 @@ Temperatura=21.00*C  Humedad=41.00%
 El suelo esta seco
 Temperatura=21.00*C  Humedad=41.00%
 El suelo esta seco
+Temperatura=21.00*C  Humedad=41.00%
+El suelo esta seco
